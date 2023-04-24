@@ -1,0 +1,9 @@
+/*
+ * Copyright 2021 NomadGroup, All Rights Reserved.
+ */
+/* Vendor Configuration File */
+group = 'NomadGroup'
+
+def moduleVersion = '4.1.1'
+def moduleVersionPatch = [:]
+version = "${moduleVersion}${moduleVersionPatch.get(project.name, '')}"

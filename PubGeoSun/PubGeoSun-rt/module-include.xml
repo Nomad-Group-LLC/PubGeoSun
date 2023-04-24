@@ -1,0 +1,9 @@
+<types>
+  <!--com.NomadGroupPROPRO.PubGeoSun-->
+  <type class="com.nomad.PubGeoSun.BSunriseSunset" name="SunriseSunset"/>
+  <type class="com.nomad.PubGeoSun.BSunriseSunsetAstronomical" name="SunriseSunsetAstronomical"/>
+  <type class="com.nomad.PubGeoSun.BSunriseSunsetCivil" name="SunriseSunsetCivil"/>
+  <type class="com.nomad.PubGeoSun.BSunriseSunsetNautical" name="SunriseSunsetNautical"/>
+  <type class="com.nomad.PubGeoSun.BSunriseSunsetOfficial" name="SunriseSunsetOfficial"/>
+  <type class="com.nomad.PubGeoSun.BSunriseSunsetGeneric" name="SunriseSunsetGeneric"/>
+</types>
